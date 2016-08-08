@@ -1,0 +1,37 @@
+_repo: The-Great-Speeches-and-Orations-of-Daniel-Webster--13-With-an-Essay-on-Daniel-Webster-as-a-Ma__12606
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Webster, Daniel
+    birthdate: 1782
+    deathdate: 1852
+    gutenberg_agent_id: '2512'
+    url: http://www.gutenberg.org/2009/agents/2512
+    wikipedia: http://en.wikipedia.org/wiki/Daniel_Webster
+  - agent_name: Whipple, Edwin Percy
+    aliases:
+    - Whipple, E. P. (Edwin Percy)
+    - Whipple, Edwin P. (Edwin Percy)
+    birthdate: 1819
+    deathdate: 1886
+    gutenberg_agent_id: '4536'
+    url: http://www.gutenberg.org/2009/agents/4536
+    wikipedia: http://en.wikipedia.org/wiki/Edwin_Percy_Whipple
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12606'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Webster, Daniel, 1782-1852'
+- !lcsh 'United States -- Politics and government -- 1815-1861'
+- !lcc 'E300'
+- !lcsh 'Speeches, addresses, etc., American'
+- GITenberg
+title: "The Great Speeches and Orations of Daniel Webster\r\nWith an Essay on Daniel\
+  \ Webster as a Master of English Style"
+url: http://www.gutenberg.org/ebooks/12606
