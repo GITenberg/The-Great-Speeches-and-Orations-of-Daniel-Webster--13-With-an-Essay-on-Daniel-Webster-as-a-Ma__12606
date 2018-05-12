@@ -1,5 +1,8 @@
 _repo: The-Great-Speeches-and-Orations-of-Daniel-Webster--13-With-an-Essay-on-Daniel-Webster-as-a-Ma__12606
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Webster, Daniel
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4536
     wikipedia: http://en.wikipedia.org/wiki/Edwin_Percy_Whipple
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12606#The-Great-Speeches-and-Orations-of-Daniel-Webster--13-With-an-Essay-on-Daniel-Webster-as-a-Ma_
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
 identifiers:
